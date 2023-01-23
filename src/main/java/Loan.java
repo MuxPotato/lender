@@ -9,7 +9,7 @@ public class Loan {
     public static double getMaxLoanAmount() {
         return maxLoanAmount;
     }
-
+// test
     public Loan(String borrower, int amount, double interestRate) {
         this.borrower = borrower;
         this.amount = amount;
